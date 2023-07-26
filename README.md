@@ -3,6 +3,7 @@
 - 学校の制作実習で作ったゲームです。
 - UNITYで作りました。
 - なるべくより多くの敵を倒す射撃ゲームです。
+- 実行ファイル：https://github.com/loaqloaqloaq/Shooting-Game/releases
 
 ## 操作方法：
 - アローキーで移動する。
